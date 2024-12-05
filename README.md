@@ -41,8 +41,10 @@ QueryTranslator/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/QueryTranslator.git
-cd QueryTranslator
+git clone https://github.com/<your-username>/Text-to-Database-Generator
+.git
+cd Text-to-Database-Generator
+
 ```
 
 ### 2. Install Dependencies
