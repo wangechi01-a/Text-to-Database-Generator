@@ -25,15 +25,15 @@ QueryTranslator is a powerful application that transforms plain English text int
 ## 📂 Project Structure
 
 ```
-QueryTranslator/
+Text-to-Database-Generator/
 │
 ├── app.py               # Main application script
 ├── requirements.txt     # Dependencies
-├── Dockerfile           # Optional: For containerization
+├── .env                 # Environment variables (e.g., Google API key)
 ├── README.md            # Project documentation
-├── data/                # Folder for database files or CSVs
-└── utils/               # Helper functions
-```
+├── venv/                # Virtual environment folder (optional, excluded from version control)
+├── sqlite3/             # Folder for the SQLite database
+└── utils/               # Helper functions and utilities
 
 ---
 
