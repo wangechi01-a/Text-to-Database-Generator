@@ -1,6 +1,4 @@
-Here’s a **README.md** file template tailored for your **Text-to-SQL Generator App**:
 
-```markdown
 # QueryTranslator: Natural Language to SQL Generator
 
 QueryTranslator is a powerful application that transforms plain English text into SQL queries. Designed for data analysts, engineers, and database enthusiasts, it simplifies SQL query generation, enabling users to interact with databases using natural language commands.
@@ -65,7 +63,7 @@ The app will be accessible at `http://localhost:8501/`.
 ## 🖥️ Demo
 
 Check out the live demo of QueryTranslator:  
-**[Live Demo](https://your-deployment-url.streamlit.app)**  
+**[Live Demo](https://github.com/user-attachments/assets/1f20e4e1-c7e0-4bc6-84c2-4e6de4faa084)**  
 
 
 
