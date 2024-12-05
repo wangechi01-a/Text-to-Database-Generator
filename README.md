@@ -1,5 +1,5 @@
 
-# QueryTranslator: Natural Language to SQL Generator
+# Natural Language to SQL Generator
 
 QueryTranslator is a powerful application that transforms plain English text into SQL queries. Designed for data analysts, engineers, and database enthusiasts, it simplifies SQL query generation, enabling users to interact with databases using natural language commands.
 
@@ -16,8 +16,8 @@ QueryTranslator is a powerful application that transforms plain English text int
 
 ## 🛠️ How It Works
 
-1. Enter a query in plain English (e.g., *"Show all employees who joined after 2020"*).
-2. QueryTranslator converts it into an SQL query (e.g., `SELECT * FROM employees WHERE start_date > '2020-01-01';`).
+1. Enter a query in plain English (e.g., *"List all users' their names, phone numbers, email, address and registration_date"*).
+2. QueryTranslator converts it into an SQL query (e.g., `List all users' names and emails." -> SELECT name, email FROM users;`).
 3. View the results fetched from the connected database.
 
 ---
